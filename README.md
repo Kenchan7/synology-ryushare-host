@@ -14,6 +14,6 @@ RyuShare host for Synology NAS
 # How to install
 
 1. Archive files
- tar zcf ryushare.host INFO myhost.php
+ - tar zcf ryushare.host INFO myhost.php
 2. Upload to your NAS
 3. Enjoy!
